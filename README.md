@@ -7,9 +7,5 @@ A simple To-Do List application built using React to understand basic React conc
   2) Mark tasks as completed
   3) Delete tasks
 
-## Tech Stack
-  1) React
-  2) CSS
-
 ## Purpose
 This project is for practicing React fundamentals using functional components and useState.
