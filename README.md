@@ -1,4 +1,4 @@
-## React To-Do List App
+## To-Do List App
 
 A simple To-Do List application built using React to understand basic React concepts like components, state, and user interactions.
 
